@@ -1,0 +1,25 @@
+{
+	"general": {
+		"debug": true
+	},
+	"npc": {
+		"model": "s_m_m_doctor_01"
+	},
+	"treatment": {
+		"item": "money",
+		"costmoney": true,
+		"price": 2000,
+		"dict": "missheistdockssetup1clipboard@base",
+		"anim": "base"
+	},
+	"bandage": {
+		"item": "bandage",
+		"price": 300
+	},
+	"bleeding": {
+		"set": true,
+		"anim": "move_m@injured",
+		"effect": "SMALL_EXPLOSION_SHAKE",
+		"intensity": 1.0
+	}
+}
