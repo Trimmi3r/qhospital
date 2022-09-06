@@ -1,2 +1,2 @@
 # qhospital
-WIP hospital system for ox_core
+Hospital system for ox_core
